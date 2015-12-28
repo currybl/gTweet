@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="twitter">#34B2E7</color>
+    <!-- App -->
+    <color name="PrimaryLightColor">#34B2E7</color>
+    <color name="PrimaryColor">#0080FF</color>
+    <color name="AccentColor">#0ca750</color>
+    <color name="WindowBackground">#DEDEDE</color>
+    <color name="TextPrimaryColor">#000000</color>
+    <color name="selected_gray">#ffdbdbdb</color>
+    <color name="btnGray">#ffdbdbdb</color>
+
+    <!-- Essentials -->
+    <color name="black">#000000</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="dim_gray">#696969</color>
+    <color name="light_gray">#BDBDBD</color>
+    <color name="charcoal">#292929</color>
+    <color name="white">#ffffff</color>
+    <color name="smoke">#546e7a</color>
+</resources>

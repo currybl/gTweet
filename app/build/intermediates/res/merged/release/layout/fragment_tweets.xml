@@ -1,0 +1,30 @@
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/tweets_list"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:clickable="false"
+            android:divider="#D8D8D8"
+            android:dividerHeight="10dip"
+            style="@style/listStyle"
+            android:longClickable="false"
+            android:visibility="gone" >
+        </ListView>
+
+    </LinearLayout>
+    
+    <include
+        	android:id="@+id/progressBarHolder"
+        	layout="@layout/listview_loading"/>
+
+</android.support.v4.widget.SwipeRefreshLayout><!-- From: file:/Users/brandon.curry/Downloads/GeoTweetSample/app/src/main/res/layout/fragment_tweets.xml -->

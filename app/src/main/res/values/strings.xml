@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">gTweet</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Action Bar -->
+    <string name="action_search">Search</string>
+    <string name="action_map">Map View</string>
+    
+    <!-- Search  -->
+    <string name="search_hint">Search Twitter</string>
+
+    <!-- Loading Prompt -->
+    <string name="loading">Loading</string>
+
+    <!-- API keys -->
+    <string name="twitter_api_consumer_key">YVcsP4tFreETlMFqz5ZzGqTHm</string>
+    <string name="twitter_api_consumer_secret_key">XJnT1lRgO2uXZdxwM9bCx6gABXVZZnZW7P4t5oheoDD0hQlXUR</string>
+    <string name="google_server_key">AIzaSyAPYyPzM28GmO6EWzZSsSRTLplQCjNZalg</string>
+    <string name="google_android_key">AIzaSyAE_TSiBJFK6TNK6yWNfm4zSl5rVG7Eyx8</string>
+
+    <!-- Tweet row -->
+    <string name="tweet">tweet</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="profile_image">Profile image</string>
+    <string name="message">Message</string>
+    <string name="tweet_date">Tweeted at</string>
+    <string name="tweet_get_failed">Unable to get tweets :(</string>
+    <string name="tweet_share_header">\'s tweet</string>
+    <string name="open_button">\open</string>
+    <string name="share">share</string>
+    <string name="share_header">share</string>
+    <string name="view">View on Twitter</string>
+
+    <!-- General/Media -->
+    <string name="opening_video">Opening video</string>
+    <string name="opening_audio">Opening audio</string>
+    <string name="downloading">Downloading..</string>
+    <string name="empty_textview">Error loading data</string>
+    <string name="no_results">No results</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="comments">Comments</string>
+    <string name="section">Section</string>
+    <string name="info">Info</string>
+    <string name="refresh">Refresh</string>
+    <string name="search">Search</string>
+    <string name="ok">OK</string>
+
+    <!-- Connection Errors-->
+    <string name="dialog_connection_title">No Tweets</string>
+    <string name="dialog_connection_description">Please try a different search</string>
+
+    <string name="dialog_internet_title">No internet</string>
+    <string name="dialog_internet_description">Check your network connection</string>
+
+    <string name="turn_on_gps">Please turn on GPS to fetch local tweets</string>
+
+    <!-- media viewer-->
+    <string name="file_audio">Audio</string>
+    <string name="file_video">Video</string>
+    <string name="file_image">Image</string>
+    <string name="save">Save</string>
+
+
+
+</resources>
